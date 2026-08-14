@@ -22,6 +22,8 @@ Developed by:
 RegisterNumber: 
 */
 ```
+<img width="1237" height="640" alt="Screenshot 2026-08-14 235417" src="https://github.com/user-attachments/assets/8467fe3c-bffe-45cf-a307-8c17531dbe6b" />
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
@@ -30,9 +32,12 @@ Developed by:
 RegisterNumber: 
 */
 ```
+<img width="1247" height="848" alt="Screenshot 2026-08-14 235900" src="https://github.com/user-attachments/assets/f00245cd-3c1f-4bba-be65-b0ca8b9b8789" />
 
 ## Output:
-![lu decomposition]()
+<img width="1237" height="577" alt="Screenshot 2026-08-14 235440" src="https://github.com/user-attachments/assets/2bd471a9-d258-495d-b171-c4646b8f02de" />
+
+
 
 
 ## Result:
